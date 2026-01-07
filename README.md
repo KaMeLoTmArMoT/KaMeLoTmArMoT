@@ -35,10 +35,14 @@ Currently building pet projects that help me practice, explore ideas, and stay s
 
 ## 🧪 Featured projects
 
-- **Tracker** — browser-only consumption tracker (CSV + charts).  
-  https://github.com/KaMeLoTmArMoT/Tracker
-- **CSV Match Cards** — mini language-learning game using CSV rows.  
-  https://github.com/KaMeLoTmArMoT/card_game
+- **Kivy ML App** — Kivy/KivyMD desktop app for secure image workflows + ML training (classification) + YOLO detection, with pytest integration tests.  
+  https://github.com/KaMeLoTmArMoT/Kivy-App
+
+- **ReadingsTracker** — browser-only consumption tracker (CSV + charts + export).  
+  https://github.com/KaMeLoTmArMoT/ReadingsTracker
+
+- **CardMatch** — browser-only language-learning / matching game powered by CSV rows.  
+  https://github.com/KaMeLoTmArMoT/CardMatch
 
 ---
 
