@@ -38,6 +38,9 @@ Currently building pet projects that help me practice, explore ideas, and stay s
 - **Kivy ML App** — Kivy/KivyMD desktop app for secure image workflows + ML training (classification) + YOLO detection, with pytest integration tests.  
   https://github.com/KaMeLoTmArMoT/Kivy-App
 
+- **Explainable-AI-MRNet** — Explainable deep learning on the MRNet knee MRI dataset (CAM + SHAP) with scripts for training, attribution, and visualization.  
+  https://github.com/KaMeLoTmArMoT/Explainable-AI-MRNet
+
 - **ReadingsTracker** — browser-only consumption tracker (CSV + charts + export).  
   https://github.com/KaMeLoTmArMoT/ReadingsTracker
 
